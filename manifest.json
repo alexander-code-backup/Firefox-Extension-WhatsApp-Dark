@@ -1,0 +1,21 @@
+{
+  "description": "Ativar tema escuro no Whatsapp",
+  "manifest_version": 2,
+  "name": "Whatsapp Dark",
+  "author": "Johnendz",
+  "version": "2.7",
+
+  "content_scripts": [
+    {
+      "matches": ["*://*.web.whatsapp.com/*"],
+      "css":["style.minified.css"],
+	  "run_at": "document_end"
+    }
+  ],
+  
+  "icons": {
+      "32": "icons/32.png",
+      "64": "icons/64.png",
+      "128": "icons/128.png"
+  }
+}
