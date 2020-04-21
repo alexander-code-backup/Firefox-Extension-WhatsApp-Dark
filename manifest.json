@@ -1,9 +1,9 @@
 {
-  "description": "Ativar tema escuro no Whatsapp",
+  "description": "Ativar tema escuro no Whatsapp Web | Enable dark theme in Whatsapp Web",
   "manifest_version": 2,
-  "name": "Whatsapp Dark",
+  "name": "Whatsapp Dark (Tema Escuro)",
   "author": "Johnendz",
-  "version": "2.9",
+  "version": "3.0",
 
   "content_scripts": [
     {
