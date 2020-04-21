@@ -1,10 +1,6 @@
 <h1 align="center">
     <img alt="Whatsapp logo" src="https://i.imgur.com/qO7oUqA.png" width="250px" />
 </h1>
-
-<h4 align="center">
-  ⚡ Whatsapp Dark (Tema Escuro)
-</h4>
 <p align="center">
   <img alt="GitHub language count" src="https://img.shields.io/amo/users/whatsapp-tema-escuro?color=brightgreen">
     
