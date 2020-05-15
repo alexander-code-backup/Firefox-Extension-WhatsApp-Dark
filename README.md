@@ -28,5 +28,5 @@
 <br>
 
 <p align="center">
-  <img alt="Captura de Tela" width="1024" src="https://addons.cdn.mozilla.net/user-media/previews/full/232/232078.png?modified=1581538776">
+  <img alt="Captura de Tela" width="1024" src="https://addons.cdn.mozilla.net/user-media/previews/full/236/236131.png?modified=1587080021">
 </p>
