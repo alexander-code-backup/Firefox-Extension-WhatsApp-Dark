@@ -19,12 +19,6 @@
   <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
 </p>
 
-<p align="center">
-  <a href="https://addons.mozilla.org/pt-BR/firefox/addon/whatsapp-tema-escuro">Firefox</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="https://chrome.google.com/webstore/detail/whatsapp-dark/ojfbknokognkpikiiohodfiafnmnoffo">Chrome</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="https://microsoftedge.microsoft.com/addons/detail/ocbcokmonfflobipfihmobhmeampbhjl">Edge</a>&nbsp;&nbsp;&nbsp;
-</p>
-
 <br>
 
 <p align="center">
