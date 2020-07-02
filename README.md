@@ -1,19 +1,19 @@
 <h1 align="center">
-    <img alt="Whatsapp logo" src="https://i.imgur.com/qO7oUqA.png" width="250px" />
+    <img alt="Whatsapp logo" src="https://i.imgur.com/O7aqXtr.png" width="128px" />
 </h1>
 <p align="center">
-  <img alt="GitHub language count" src="https://img.shields.io/amo/users/whatsapp-tema-escuro?color=brightgreen">
+  <img alt="Firefox Users" src="https://img.shields.io/amo/users/whatsapp-redesign-dark?color=brightgreen">
     
-  <img alt="GitHub language count" src="https://img.shields.io/amo/dw/whatsapp-tema-escuro?color=brightgreen">
+  <img alt="Firefox Downloads" src="https://img.shields.io/amo/dw/whatsapp-redesign-dark?color=brightgreen">
 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/johnendz/Firefox-Extension-Whatsapp-Dark?color=brightgreen">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/johnendz/Firefox-Extension-Whatsapp-Redesign-Dark?color=brightgreen">
   
-  <a href="https://github.com/johnendz/Firefox-Extension-Whatsapp-Dark/commits/master">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/johnendz/Firefox-Extension-Whatsapp-Dark?color=brightgreen">
+  <a href="https://github.com/johnendz/Firefox-Extension-Whatsapp-Redesign-Dark/commits/master">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/johnendz/Firefox-Extension-Whatsapp-Redesign-Dark?color=brightgreen">
   </a>
 
-  <a href="https://github.com/johnendz/Firefox-Extension-Whatsapp-Dark/issues">
-    <img alt="Repository issues" src="https://img.shields.io/github/issues/johnendz/Firefox-Extension-Whatsapp-Dark?color=brightgreen">
+  <a href="https://github.com/johnendz/Firefox-Extension-Whatsapp-Redesign-Darkk/issues">
+    <img alt="Repository issues" src="https://img.shields.io/github/issues/johnendz/Firefox-Extension-Whatsapp-Redesign-Dark?color=brightgreen">
   </a>
 
   <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
@@ -22,5 +22,5 @@
 <br>
 
 <p align="center">
-  <img alt="Captura de Tela" width="1024" src="https://addons.cdn.mozilla.net/user-media/previews/full/236/236131.png?modified=1587080021">
+  <img alt="Captura de Tela" width="1024" src="https://i.imgur.com/HuszVUu.png">
 </p>
