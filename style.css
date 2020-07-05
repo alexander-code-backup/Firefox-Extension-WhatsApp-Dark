@@ -12,39 +12,14 @@
     scrollbar-color: #1F232A #4a4a4a;
 }
 
-body, .h70RQ {
-    background: var(--color-background) !important;
-}
-
-/* estilo da pagina inicial */
-
-#app {
-    background-color: var(--color-background) !important;
-}
-.landing-wrapper::before {
-    opacity: 0.6;
-}
-.landing-main, ._3pdvT {
-    background-color: var(--color-background-dark) !important;
-}
-.landing-main * {
-    color: var(--color-text) !important;
-}
-.landing-wrapper div[data-ref] {
-    border-radius: 0;
-    filter: contrast(150%) !important;
-    outline: 4px solid white !important;
-}
-/* fim estilo da pagina inicial */
-
-/* estilo do chat sem limitações */
+/* estilo do ultrawide */
 
 .app-wrapper-web .h70RQ {
     height: inherit!important;
     top: inherit!important;
     width: inherit!important;
 }
-/* fim do estilo do chat sem limitações */
+/* fim do estilo do ultrawide */
 
 /* estilo do chat sem mensagem selecionada */
 
@@ -56,9 +31,6 @@ body, .h70RQ {
     background-size: 1600% auto;
     background-position: 0% 0%;
 }
-.PdaRW * {
-    color: var(--color-text) !important;
-}
 ._1kdBg a {
     color: var(--button-secondary) !important;
 }
@@ -69,3 +41,66 @@ body, .h70RQ {
   }
 }
 /* fim do estilo do chat sem mensagem selecionada */
+
+/* estilo da tela de carregamento */
+
+.dark ._3pTi5, .dark ._9a59P, .dark ._3FgB2 {
+    color: var(--color-text) !important;
+}
+.dark .landing-window, .dark ._3pdvT {
+    background-color: var(--color-background-dark) !important;
+}
+/* fim do estilo da tela de carregamento */
+
+/* pequenas melhorias */
+
+._2kHpK, ._3wAoe + ._3wAoe ._3pRld, ._1KWct, ._1DKbp + ._1DKbp ._3yOuq {
+    border-top: inherit !important;
+}
+
+._2Bps4 {
+	box-shadow: initial !important;
+}
+
+._1X4Oi {
+	background-color: inherit !important;
+}
+/* fim da pequenas melhorias */
+
+/* redesign das cores do dark theme */
+
+.dark {
+	--background-default: #222222;
+	--background-default-hover: #4a4a4a;
+	--intro-background: #222222;
+	--border-default: #1a1a1a;
+	--border-stronger: #1a1a1a;
+	--conversation-panel-border: #1a1a1a;
+	--conversation-panel-background: #222222;
+	--rich-text-panel-background: #222222;
+	--notification-e2e-background: #1a1a1a;
+	--notification-biz-background: #1a1a1a;
+	--compose-input-background: #1a1a1a;
+	--compose-input-border: #1a1a1a;
+	--outgoing-background: #1a1a1a;
+	--incoming-background: #1a1a1a;
+	--incoming-background-deeper: #222222;
+	--quick-action-button-background: #1a1a1a;
+	--media-viewer-background: #222222;
+	--media-viewer-button-background: #1a1a1a;
+	--drawer-gallery-background: #1a1a1a;
+	--system-message-background: #1a1a1a;
+	--incoming-background-rgb: #1a1a1a;
+	--drawer-section-background: #222222;
+	--drawer-background-deep: #222222;
+	--panel-header-background: #222222;
+	--panel-background-colored: #222222;
+	--search-container-background: #222222;
+	--search-input-background: #1a1a1a;
+	--startup-background: #222222;
+	--modal-backdrop-solid: #222222;
+	--modal-background: #1a1a1a;
+	--dropdown-background: #1a1a1a;
+	--dropdown-background-hover: #4a4a4a;
+}
+/* fim do redesign das cores do dark theme  */
