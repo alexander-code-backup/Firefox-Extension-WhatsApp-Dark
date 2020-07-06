@@ -19,6 +19,16 @@
     top: inherit!important;
     width: inherit!important;
 }
+
+/* stories */
+
+._2x-Yl {
+    height: inherit!important;
+    top: inherit!important;
+    width: inherit!important;
+}
+/* stories */
+
 /* fim do estilo do ultrawide */
 
 /* estilo do chat sem mensagem selecionada */
@@ -52,6 +62,24 @@
 }
 /* fim do estilo da tela de carregamento */
 
+/* estilo dos icones */
+
+/* icone do seletor de arquivos com fundo escuro  */
+span[data-icon="attach-image"] > svg > g[clip-path] > path, span[data-icon="attach-camera"] > svg > g[clip-path] > path, span[data-icon="attach-document"] > svg > g[clip-path] > path, span[data-icon="attach-contact"] > svg > g[clip-path] > path, span[data-icon="attach-rooms"] > svg > g[clip-path] > path {
+    fill: var(--color-background-dark) !important; 
+}
+
+/* icone de users com fundo escuro  */
+span[data-icon="default-group"] > svg > path:first-child, span[data-icon="default-user"] > svg > path:first-child {
+    fill: var(--color-background-dark) !important;
+}
+
+/* icone de users com fundo escuro  */
+span[data-icon="alert-notification"] svg path, span[data-icon="alert-computer"] svg path, span[data-icon="alert-phone"] svg path:first-child {
+    fill: var(--color-background-dark) !important;
+}
+/* fim do estilo dos icones */
+
 /* pequenas melhorias */
 
 ._2kHpK, ._3wAoe + ._3wAoe ._3pRld, ._1KWct, ._1DKbp + ._1DKbp ._3yOuq {
@@ -62,7 +90,7 @@
 	box-shadow: initial !important;
 }
 
-._1X4Oi {
+._1X4Oi, .aGjYp::before, ._9WQEN {
 	background-color: inherit !important;
 }
 /* fim da pequenas melhorias */
@@ -72,27 +100,48 @@
 .dark {
 	--background-default: #222222;
 	--background-default-hover: #4a4a4a;
+	--background-default-active: #4a4a4a;
 	--intro-background: #222222;
 	--border-default: #1a1a1a;
 	--border-stronger: #1a1a1a;
 	--conversation-panel-border: #1a1a1a;
-	--conversation-panel-background: #222222;
+	--conversation-panel-background: #1a1a1a;
 	--rich-text-panel-background: #222222;
 	--notification-e2e-background: #1a1a1a;
 	--notification-biz-background: #1a1a1a;
 	--compose-input-background: #1a1a1a;
 	--compose-input-border: #1a1a1a;
-	--outgoing-background: #1a1a1a;
-	--incoming-background: #1a1a1a;
-	--incoming-background-deeper: #222222;
+	--outgoing-background: #222222;
+	--incoming-background: #222222;
+	--incoming-background-deeper: #1a1a1a;
 	--quick-action-button-background: #1a1a1a;
 	--media-viewer-background: #222222;
 	--media-viewer-button-background: #1a1a1a;
 	--drawer-gallery-background: #1a1a1a;
 	--system-message-background: #1a1a1a;
-	--incoming-background-rgb: #1a1a1a;
+	--incoming-background-rgb: #222222;
+	--outgoing-background-rgb: #222222;
+	--outgoing-background-deeper: #222222;
+	--outgoing-background-deeper-rgb: #222222;
+	--incoming-background-deeper: #222222;
+	--incoming-background-deeper-rgb: #222222;
+	--overlay-rgb: #222222;
 	--drawer-section-background: #222222;
 	--drawer-background-deep: #222222;
+	--panel-background: #222222;
+	--panel-background-rgb: #1a1a1a;
+	--panel-background-colored-deeper: #222222;
+	--panel-background-deeper: #1a1a1a;
+	--unread-background: #1a1a1a;
+	--compose-panel-background: #222222;
+	--panel-background-lighter: #222222;
+	--drawer-gallery-background-active: #4a4a4a;
+	--drawer-gallery-background-hover: #4a4a4a;
+	--panel-input-background: #1a1a1a;
+	--border-panel: #1a1a1a;
+	--photopicker-overlay-background: rgba(26,26,26,0.8);
+	--empty-state-background: #1a1a1a;
+	--drawer-background: #222222;
 	--panel-header-background: #222222;
 	--panel-background-colored: #222222;
 	--search-container-background: #222222;
