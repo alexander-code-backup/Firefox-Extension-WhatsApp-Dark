@@ -1,6 +1,3 @@
-<h1 align="center">
-    <img alt="Whatsapp logo" src="https://i.imgur.com/O7aqXtr.png" width="128px" />
-</h1>
 <p align="center">
   <img alt="Firefox Users" src="https://img.shields.io/amo/users/whatsapp-redesign-dark?color=brightgreen">
     
@@ -17,10 +14,4 @@
   </a>
 
   <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
-</p>
-
-<br>
-
-<p align="center">
-  <img alt="Captura de Tela" width="1024" src="https://i.imgur.com/HuszVUu.png">
 </p>
