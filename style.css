@@ -31,6 +31,16 @@
 
 /* fim do estilo do ultrawide */
 
+/* estilo da pagina inicial */
+
+.dark .landing-title {
+    color: var(--color-text) !important;
+}
+.dark .eGEEX, .dark ._3ewRB {
+    color: var(--color-text-shadow) !important;
+}
+/* fim do estilo da pagina inicial */
+
 /* estilo do chat sem mensagem selecionada */
 
 ._1kdBg > .acGdi > ._2bBPp {
