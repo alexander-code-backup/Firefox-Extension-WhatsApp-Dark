@@ -14,7 +14,7 @@
 
 /* estilo do ultrawide */
 
-.app-wrapper-web .h70RQ {
+.app-wrapper-web > div{
     height: inherit!important;
     top: inherit!important;
     width: inherit!important;
@@ -22,7 +22,7 @@
 
 /* stories */
 
-._2x-Yl {
+._1B91o {
     height: inherit!important;
     top: inherit!important;
     width: inherit!important;
@@ -42,15 +42,6 @@
 /* fim do estilo da pagina inicial */
 
 /* estilo do chat sem mensagem selecionada */
-
-._1kdBg > .acGdi > ._2bBPp {
-	animation: BX5_9 1s steps(15) infinite;
-    background-image: url("https://web.whatsapp.com/img/animated-doodle_600127bdb5f7627ede5cd4ef320f55b0.png") !important;
-    margin-top: 32px;
-    margin-bottom: 28px;
-    background-size: 1600% auto;
-    background-position: 0% 0%;
-}
 ._1kdBg a {
     color: var(--button-secondary) !important;
 }
@@ -92,11 +83,11 @@ span[data-icon="alert-notification"] svg path, span[data-icon="alert-computer"] 
 
 /* pequenas melhorias */
 
-._2kHpK, ._3wAoe + ._3wAoe ._3pRld, ._1KWct, ._1DKbp + ._1DKbp ._3yOuq {
+._1C6Zl, ._1OZ02 + ._1OZ02 ._3YGnG, .Su-Gh + .Su-Gh .xYtbD {
     border-top: inherit !important;
 }
 
-._2Bps4 {
+._32vnm {
 	box-shadow: initial !important;
 }
 
